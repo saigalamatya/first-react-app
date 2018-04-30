@@ -7,4 +7,4 @@ export const add = (a, b) => a + b;
 // named exports
 // export { square, add };
 
-// exports - default export - named exports
+// exports - file can hav single default export & many named exports
